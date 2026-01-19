@@ -12,10 +12,7 @@ Forecast patient inflow for multiple services to optimize staffing and marketing
 - **Seasonality Analysis:** Identify peak periods for specific services  
 - **Marketing Insight:** Measure effect of Google search trends on visits  
 
-## 📊 Sample Output
-![Forecast Chart](https://i.imgur.com/taLpxOx.png)
 
-## 🔍 Skills Demonstrated
 - Time-Series Decomposition  
 - Random Forest Regression  
 - Feature Engineering (lags, seasonal trends)  
